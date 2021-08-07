@@ -8,7 +8,7 @@ import (
 
 	"github.com/alvaroliveira20/bookings/cmd/models"
 	"github.com/alvaroliveira20/bookings/pkg/config"
-	"github.com/alvaroliveira20/bookings/pkg/render"
+	"github.com/alvaroliveira20/bookings/internal/render"
 )
 
 // TemplateData holds data sent from handlers to templates
